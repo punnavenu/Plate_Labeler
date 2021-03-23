@@ -32,7 +32,7 @@ ejemplo:
 
 De esta forma se pueden guardar en `img_pred.txt` las predicciones hechas por un modelo OCR inicial. Aun cuando no tenga buena precision puede completar algunos caracteres y agilizar tiempo.
 
-## Prevenir duplicados
+## Prevenir duplicados ( prevent)
 
 Si la patente ya esta registrada mas de 2 veces, se notifica con un MsgBox de confirmacion
 
